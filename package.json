@@ -3,10 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "lodash.throttle": "^4.1.1",
+    "mishmash-db": "git+https://github.com/MishmashGroup/ClientDB.git",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-pyramid": "^2.0.3",
-    "react-scripts": "2.0.4"
+    "react-scripts": "2.0.4",
+    "styled-components": "^4.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
